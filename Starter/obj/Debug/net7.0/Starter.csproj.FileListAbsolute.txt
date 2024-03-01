@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\ref\Starter.dll
